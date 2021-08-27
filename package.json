@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-inject": "^5.0.5",
+    "gulp-js-import": "^1.0.6",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.38.1"
+  }
+}
